@@ -1,0 +1,2 @@
+Median of the grade is 56.0
+Average of the grade is 52.6
